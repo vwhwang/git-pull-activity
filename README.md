@@ -12,6 +12,10 @@ To demonstrate `git pull`, we've provided a repository to work with. Follow thes
 1. **Both** partners should clone the forked repo.
 1. **Both** partners should open `pull_practice.rb` in VS Code.
 
+## Verify you are on the same repo
+
+Both partners should do a `git remote -v` and verify you are on the same repository (**not** the ada-cXX repo).
+
 ## Pulling Changes From GitHub
 
 Look at `Task 1` in the `pull_practice.rb`.
